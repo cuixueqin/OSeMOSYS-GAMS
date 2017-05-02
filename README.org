@@ -1,4 +1,4 @@
 * OSeMOSYS-GAMS
-This is a re-styling by Giacomo Marangoni (FEEM) of the GAMS version by Ken Noble (Noble-Soft Systems), derived from the original OSeMOSYS (2011.07.07) by M. Howells et al. (KTH).
+This is a re-styling by Giacomo Marangoni (FEEM) of the GAMS version by Ken Noble (Noble-Soft Systems), derived from the original OSeMOSYS GNU MathProg code (version 2011.07.07) by M. Howells et al. (KTH).
 
-The official repository for the OSeMOSYS model is: [[https://github.com/KTH-dESA/OSeMOSYS]]. See also [[LICENSE.md]].
+The official repository for the OSeMOSYS model is: [[https://github.com/KTH-dESA/OSeMOSYS]]. See also the [[https://github.com/polimi-energy-modelling/OSeMOSYS-GAMS/blob/master/LICENSE][LICENSE]] file.

@@ -1,1 +1,0 @@
-# OSeMOSYS-GAMS
